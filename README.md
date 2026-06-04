@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=180&section=header&text=Shivansh%20Sharma&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Engineer%20%7C%20New%20Delhi%2C%20India&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
+
 
 <img src="https://github.com/Shivansh07-stack.png" width="110px" style="border-radius:50%;margin-top:10px;" />
 
