@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Shivansh%20Sharma&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Engineer&descAlignY=58&descSize=20&descColor=8b949e" width="100%"/>
 
+<img src="https://github.com/Shivansh07-stack.png" width="120px" style="border-radius: 50%;" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+AI+Engineer;Specializing+in+Predictive+Analytics+%7C+NLP+%7C+LLMs;Building+LLM-powered+applications+with+Python;RAG+Systems+%7C+Fraud+Detection+%7C+Sentiment+Analysis)](https://git.io/typing-svg)
 
 </div>
@@ -71,15 +73,21 @@ class ShivanshSharma:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivansh07-stack&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivansh07-stack&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh07-stack&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh07-stack&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shivansh07-stack&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivansh07-stack&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/Shivansh07-stack)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivansh07-stack&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/Shivansh07-stack)
 
 </div>
 
