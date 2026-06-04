@@ -67,15 +67,6 @@ class ShivanshSharma:
 | 📄 [Multi-Document RAG Chatbot](https://github.com/Shivansh07-stack/Multi-Document_RAG_Chatbot) | Conversational AI over multiple documents using RAG architecture | Python, LangChain, RAG |
 | 🐦 [Twitter Sentiment Analysis](https://github.com/Shivansh07-stack/Twitter-Recent-Tweets-Sentiment-Analysis) | Real-time tweet sentiment analysis using NLP and ML models | Python, NLP, Twitter API |
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shivansh07-stack&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh07-stack&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
