@@ -1,32 +1,46 @@
 <div align="center">
 
+<img src="https://github.com/Shivansh07-stack.png" width="120px" style="border-radius:50%;margin-top:10px;" />
 
+# Hi, I'm Shivansh Sharma 👋
 
-<img src="https://github.com/Shivansh07-stack.png" width="110px" style="border-radius:50%;margin-top:10px;" />
+### Data Scientist & AI Engineer · Predictive Analytics · NLP · LLMs · RAG Systems
 
-### 🚀 Specializing in Predictive Analytics · NLP · LLMs · RAG Systems
+<a href="https://www.linkedin.com/in/shivanshsharma355/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shivaansh07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 ```python
 class ShivanshSharma:
-    name       = "Shivansh Sharma"
-    role       = "Data Scientist & AI Engineer"
-    location   = "New Delhi, India 🇮🇳"
-    bio        = "Specializing in predictive analytics, NLP, and LLM-powered applications"
-    interests  = ["Large Language Models", "RAG Systems",
-                  "Predictive Analytics", "NLP", "Fraud Detection"]
-    currently  = "Building AI-powered tools that solve real-world problems"
-    fun_fact   = "I believe every dataset has a story waiting to be told 📊"
+    def __init__(self):
+        self.name       = "Shivansh Sharma"
+        self.role       = "Data Scientist & AI Engineer"
+        self.location   = "New Delhi, India 🇮🇳"
+        self.interests  = ["LLMs", "RAG Systems", "Predictive Analytics",
+                            "NLP", "Fraud Detection"]
+        self.currently  = "Building AI-powered tools that solve real-world problems"
+
+    def fun_fact(self):
+        return "Every dataset has a story waiting to be told 📊"
 ```
+
+- 🔭 Currently working on AI-powered analytics and RAG-based conversational tools
+- 🌱 Deepening my skills in LLM orchestration and agentic workflows
+- 💬 Ask me about predictive modeling, NLP pipelines, or RAG architecture
+- ⚡ Fun fact: I believe every dataset has a story waiting to be told
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Core**
 
@@ -56,23 +70,37 @@ class ShivanshSharma:
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 [AI Job Analyzer](https://github.com/Shivansh07-stack/AI_Job_Analyzer) | Analyzes job postings using AI to match skills and recommend career paths | Python, LLMs, NLP |
-| 📊 [AI Business Analyst](https://github.com/Shivansh07-stack/AI_Business_Analyst) | AI-powered business intelligence tool for data-driven decision making | Python, ML, Analytics |
-| 🏦 [Bank Data Churn](https://github.com/Shivansh07-stack/Bank_Data_Churn) | Predicts customer churn using ML to help banks retain customers | Python, Scikit-learn |
-| 💳 [Credit Card Fraud Detection](https://github.com/Shivansh07-stack/Credit_Card_Fraud_Detection) | Real-time fraud detection system using anomaly detection algorithms | Python, ML |
-| 📄 [Multi-Document RAG Chatbot](https://github.com/Shivansh07-stack/Multi-Document_RAG_Chatbot) | Conversational AI over multiple documents using RAG architecture | Python, LangChain, RAG |
-| 🐦 [Twitter Sentiment Analysis](https://github.com/Shivansh07-stack/Twitter-Recent-Tweets-Sentiment-Analysis) | Real-time tweet sentiment analysis using NLP and ML models | Python, NLP, Twitter API |
+<div align="center">
 
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shivansh07-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh07-stack&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh07-stack&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🤖 [AI Job Analyzer](https://github.com/Shivansh07-stack/AI_Job_Analyzer) | Analyzes job postings with AI to match skills and recommend career paths | `Python` `LLMs` `NLP` |
+| 📊 [AI Business Analyst](https://github.com/Shivansh07-stack/AI_Business_Analyst) | AI-powered business intelligence tool for data-driven decision making | `Python` `ML` `Analytics` |
+| 🏦 [Bank Data Churn](https://github.com/Shivansh07-stack/Bank_Data_Churn) | Predicts customer churn using ML to help banks retain customers | `Python` `Scikit-learn` |
+| 💳 [Credit Card Fraud Detection](https://github.com/Shivansh07-stack/Credit_Card_Fraud_Detection) | Real-time fraud detection using anomaly detection algorithms | `Python` `ML` |
+| 📄 [Multi-Document RAG Chatbot](https://github.com/Shivansh07-stack/Multi-Document_RAG_Chatbot) | Conversational AI over multiple documents using RAG architecture | `Python` `LangChain` `RAG` |
+| 🐦 [Twitter Sentiment Analysis](https://github.com/Shivansh07-stack/Twitter-Recent-Tweets-Sentiment-Analysis) | Real-time tweet sentiment analysis using NLP and ML models | `Python` `NLP` `Twitter API` |
+
+<div align="center">
+<sub>Pin these six on your profile (via <b>Customize your pins</b>) so they're the first thing visitors see.</sub>
+</div>
+
+---
+
+### 🤝 Connect With Me
 
 <div align="center">
 
