@@ -70,7 +70,19 @@ class ShivanshSharma:
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Best Projects
+
+The most substantial and recent builds — pin these on your profile via **Customize your pins**.
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔥 [Wildfire Spread Predictor](https://github.com/Shivansh07-stack/Wildlife_Spread_Prediction) | Full ML pipeline predicting wildfire spread from satellite fire detections, weather, terrain, and drought data — RF/XGBoost/LightGBM ensemble with a live Streamlit risk dashboard | `Python` `XGBoost` `LightGBM` `Streamlit` |
+| 🚗 [Object Detection & Distance Estimation](https://github.com/Shivansh07-stack/Object-Detection-Distance-Estimation-for-Robotics-Navigation) | YOLOv8 detector for robotics navigation (cones, barriers, signs) with camera-geometry distance estimation, plus ONNX export and int8 quantization for edge deployment | `Python` `YOLOv8` `ONNX` `Computer Vision` |
+| 💼 [AI Job Search](https://github.com/Shivansh07-stack/ai-job-search) | Claude Code–powered job application framework: scrapes postings, scores fit, drafts a tailored LaTeX CV and cover letter via a drafter–reviewer agent pipeline, and preps interviews | `Python` `Claude Code` `LaTeX` `Agents` |
+| 📄 [Multi-Document RAG Chatbot](https://github.com/Shivansh07-stack/Multi-Document_RAG_Chatbot) | Conversational AI over multiple documents using RAG architecture | `Python` `LangChain` `RAG` |
+
+<details>
+<summary>🗂️ More projects</summary>
 
 | Project | Description | Tech |
 |---|---|---|
@@ -78,8 +90,9 @@ class ShivanshSharma:
 | 📊 [AI Business Analyst](https://github.com/Shivansh07-stack/AI_Business_Analyst) | AI-powered business intelligence tool for data-driven decision making | `Python` `ML` `Analytics` |
 | 🏦 [Bank Data Churn](https://github.com/Shivansh07-stack/Bank_Data_Churn) | Predicts customer churn using ML to help banks retain customers | `Python` `Scikit-learn` |
 | 💳 [Credit Card Fraud Detection](https://github.com/Shivansh07-stack/Credit_Card_Fraud_Detection) | Real-time fraud detection using anomaly detection algorithms | `Python` `ML` |
-| 📄 [Multi-Document RAG Chatbot](https://github.com/Shivansh07-stack/Multi-Document_RAG_Chatbot) | Conversational AI over multiple documents using RAG architecture | `Python` `LangChain` `RAG` |
 | 🐦 [Twitter Sentiment Analysis](https://github.com/Shivansh07-stack/Twitter-Recent-Tweets-Sentiment-Analysis) | Real-time tweet sentiment analysis using NLP and ML models | `Python` `NLP` `Twitter API` |
+
+</details>
 
 ---
 
