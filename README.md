@@ -1,19 +1,11 @@
-<div align="center">
-
-<img src="https://github.com/Shivansh07-stack.png" width="120px" style="border-radius:50%;margin-top:10px;" />
+![](https://github.com/Shivansh07-stack.png)
 
 # Hi, I'm Shivansh Sharma 👋
 
 ### Data Scientist & AI Engineer · Predictive Analytics · NLP · LLMs · RAG Systems
 
-<a href="https://www.linkedin.com/in/shivanshsharma355/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shivaansh07@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshsharma355/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaansh07@gmail.com)
 
 ---
 
@@ -72,14 +64,9 @@ class ShivanshSharma:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shivansh07-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh07-stack&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh07-stack&theme=tokyonight&hide_border=true" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Shivansh07-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh07-stack&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivansh07-stack&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -94,29 +81,17 @@ class ShivanshSharma:
 | 📄 [Multi-Document RAG Chatbot](https://github.com/Shivansh07-stack/Multi-Document_RAG_Chatbot) | Conversational AI over multiple documents using RAG architecture | `Python` `LangChain` `RAG` |
 | 🐦 [Twitter Sentiment Analysis](https://github.com/Shivansh07-stack/Twitter-Recent-Tweets-Sentiment-Analysis) | Real-time tweet sentiment analysis using NLP and ML models | `Python` `NLP` `Twitter API` |
 
-<div align="center">
-<sub>Pin these six on your profile (via <b>Customize your pins</b>) so they're the first thing visitors see.</sub>
-</div>
-
 ---
 
 ### 🤝 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshsharma355/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaansh07@gmail.com)
 
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shivansh07-stack&color=58a6ff&style=flat-square&label=Profile+Views)
 
 *"The goal is to turn data into information, and information into insight."*
-
-</div>
